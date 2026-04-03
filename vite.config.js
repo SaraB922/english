@@ -8,4 +8,5 @@ export default defineConfig({
     environment: "node",
   },
   plugins: [react()],
+  base: "/english/"
 });
