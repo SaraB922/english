@@ -1,0 +1,135 @@
+.page {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+  width: min(640px, 100%);
+  background: white;
+  border-radius: 30px;
+  padding: clamp(1.1rem, 3vw, 2rem);
+  box-shadow: 0 24px 40px rgba(15, 23, 42, 0.16);
+}
+
+.title {
+  margin: 0;
+  text-align: center;
+  color: var(--color-primary-dark);
+}
+
+.evaluation {
+  margin: 0.25rem 0 1rem;
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.15rem;
+}
+
+.leaderboardSave {
+  margin-bottom: 0.95rem;
+  padding: 0.85rem;
+  border-radius: 16px;
+  background: rgba(124, 58, 237, 0.08);
+}
+
+.nameLabel {
+  display: block;
+  font-weight: 800;
+  margin-bottom: 0.45rem;
+}
+
+.nameRow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.55rem;
+}
+
+.nameInput {
+  width: 100%;
+  border: 2px solid rgba(124, 58, 237, 0.25);
+  border-radius: 12px;
+  padding: 0.7rem 0.8rem;
+  font: inherit;
+}
+
+.nameInput:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.18);
+}
+
+.nameError {
+  margin: 0.45rem 0 0;
+  color: #b91c1c;
+  font-weight: 700;
+}
+
+.wrongListSection {
+  border-radius: 16px;
+  background: rgba(245, 243, 255, 0.9);
+  padding: 0.9rem;
+}
+
+.wrongListSection h2 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.wrongList {
+  margin: 0;
+  padding-left: 1.2rem;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.actions {
+  margin-top: 1.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: center;
+}
+
+@media (max-width: 560px) {
+  .nameRow {
+    grid-template-columns: 1fr;
+  }
+}
+
+.confetti::before,
+.confetti::after {
+  content: "";
+  position: absolute;
+  inset: -20% -10% auto;
+  height: 170px;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle, #22c55e 6px, transparent 7px),
+    radial-gradient(circle, #facc15 5px, transparent 6px),
+    radial-gradient(circle, #ef4444 5px, transparent 6px),
+    radial-gradient(circle, #7c3aed 6px, transparent 7px);
+  background-size: 120px 120px;
+  opacity: 0.75;
+  animation: confettiDrop 1.7s ease-out;
+}
+
+.confetti::after {
+  animation-delay: 0.2s;
+}
+
+@keyframes confettiDrop {
+  0% {
+    transform: translateY(-80px);
+    opacity: 0;
+  }
+  40% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(190px);
+    opacity: 0;
+  }
+}

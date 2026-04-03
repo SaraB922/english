@@ -1,0 +1,58 @@
+.option {
+  width: 100%;
+  border: 2px solid transparent;
+  border-radius: 18px;
+  background: white;
+  color: var(--color-ink);
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.9rem 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 12px 22px rgba(30, 41, 59, 0.09);
+  transition: transform 0.16s ease, box-shadow 0.16s ease, background-color 0.2s ease;
+}
+
+.option:hover:enabled {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 28px rgba(30, 41, 59, 0.13);
+}
+
+.marker {
+  width: 1.4rem;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.correct {
+  background: rgba(34, 197, 94, 0.18);
+  border-color: #22c55e;
+  animation: pulse 0.3s ease;
+}
+
+.wrong {
+  background: rgba(239, 68, 68, 0.16);
+  border-color: #ef4444;
+  animation: shake 0.4s ease;
+}
+
+.disabled {
+  opacity: 0.74;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  50% { transform: translateX(4px); }
+  75% { transform: translateX(-4px); }
+  100% { transform: translateX(0); }
+}

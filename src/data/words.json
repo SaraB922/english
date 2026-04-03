@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "en": "able",
+    "cs": "schopný",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "en": "cloud",
+    "cs": "mrak",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "en": "accept",
+    "cs": "přijmout",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "en": "account",
+    "cs": "účet",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "en": "achieve",
+    "cs": "dosáhnout",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "en": "act",
+    "cs": "akt",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "en": "active",
+    "cs": "aktivní",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "en": "actual",
+    "cs": "aktuální",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "en": "add",
+    "cs": "přidat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "en": "address",
+    "cs": "adresa",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "en": "admit",
+    "cs": "přiznat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "en": "advertise",
+    "cs": "inzerovat",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "en": "affect",
+    "cs": "ovlivnit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "en": "afford",
+    "cs": "dovolit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "en": "afternoon",
+    "cs": "odpoledne",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "en": "against",
+    "cs": "proti",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "en": "age",
+    "cs": "stáří",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "en": "agent",
+    "cs": "činidlo",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "en": "ago",
+    "cs": "před",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "en": "agree",
+    "cs": "souhlasit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "en": "air",
+    "cs": "vzduch",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "en": "allow",
+    "cs": "dovolit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "en": "almost",
+    "cs": "téměř",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "en": "along",
+    "cs": "podél",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "en": "alright",
+    "cs": "dobře",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "en": "although",
+    "cs": "ačkoli",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "en": "always",
+    "cs": "vždy",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "en": "amount",
+    "cs": "množství",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "en": "answer",
+    "cs": "odpověď",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "en": "apart",
+    "cs": "od sebe",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "en": "apparent",
+    "cs": "zdánlivý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "en": "appear",
+    "cs": "se objeví",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "en": "apply",
+    "cs": "uplatnit",
+    "category": "adverb",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "en": "appoint",
+    "cs": "jmenovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "en": "approach",
+    "cs": "přístup",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "en": "appropriate",
+    "cs": "přivlastnit si",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "en": "area",
+    "cs": "plocha",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "en": "rain",
+    "cs": "déšť",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "en": "arm",
+    "cs": "paže",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "en": "arrange",
+    "cs": "uspořádat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "en": "art",
+    "cs": "umění",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "en": "ask",
+    "cs": "požádat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 43,
+    "en": "associate",
+    "cs": "společník",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "en": "assume",
+    "cs": "převzít",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "en": "attend",
+    "cs": "navštěvovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "en": "authority",
+    "cs": "autorita",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "en": "available",
+    "cs": "k dispozici",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "en": "aware",
+    "cs": "vědomý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "en": "away",
+    "cs": "pryč",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "en": "awful",
+    "cs": "hrozné",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "en": "baby",
+    "cs": "dítě",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "en": "back",
+    "cs": "zadní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "en": "bad",
+    "cs": "špatný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "en": "bag",
+    "cs": "taška",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "en": "balance",
+    "cs": "váhy",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "en": "ball",
+    "cs": "míč",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "en": "snow",
+    "cs": "sněžení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "en": "storm",
+    "cs": "bouře",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "en": "base",
+    "cs": "báze",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "en": "basis",
+    "cs": "základ",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "en": "bear",
+    "cs": "medvěd",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "en": "beat",
+    "cs": "porazit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "en": "beauty",
+    "cs": "krása",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "en": "become",
+    "cs": "stát se",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "en": "bed",
+    "cs": "postel",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "en": "begin",
+    "cs": "začít",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "en": "behind",
+    "cs": "za",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "en": "believe",
+    "cs": "věřit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "en": "benefit",
+    "cs": "prospěch",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "en": "best",
+    "cs": "nejlepší",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "en": "bet",
+    "cs": "sázka",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "en": "big",
+    "cs": "velký",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "en": "bill",
+    "cs": "účtovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "en": "birth",
+    "cs": "narození",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "en": "thunder",
+    "cs": "hrom",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "en": "black",
+    "cs": "černý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "en": "bloke",
+    "cs": "chlápek",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "en": "blow",
+    "cs": "rána",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "en": "blue",
+    "cs": "modrý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "en": "board",
+    "cs": "rada",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "en": "boat",
+    "cs": "loď",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "en": "body",
+    "cs": "tělo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "en": "book",
+    "cs": "rezervovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 84,
+    "en": "both",
+    "cs": "obě",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "en": "bother",
+    "cs": "obtěžovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "en": "bottle",
+    "cs": "láhev",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "en": "bottom",
+    "cs": "dno",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "en": "box",
+    "cs": "krabice",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "en": "boy",
+    "cs": "chlapec",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "en": "break",
+    "cs": "přerušení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "en": "brief",
+    "cs": "stručný",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 92,
+    "en": "lightning",
+    "cs": "blesk",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 93,
+    "en": "bring",
+    "cs": "přinést",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "en": "fog",
+    "cs": "mlha",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 95,
+    "en": "brother",
+    "cs": "bratr",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "en": "budget",
+    "cs": "rozpočet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "en": "build",
+    "cs": "vytvořit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 98,
+    "en": "bus",
+    "cs": "autobus",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 99,
+    "en": "business",
+    "cs": "podnikání",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "en": "busy",
+    "cs": "zaneprázdněný",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 101,
+    "en": "buy",
+    "cs": "nakoupit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 102,
+    "en": "cake",
+    "cs": "dort",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 103,
+    "en": "call",
+    "cs": "volání",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 104,
+    "en": "car",
+    "cs": "auto",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 105,
+    "en": "card",
+    "cs": "karta",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 106,
+    "en": "care",
+    "cs": "péče",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 107,
+    "en": "carry",
+    "cs": "nést",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 108,
+    "en": "case",
+    "cs": "věc",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 109,
+    "en": "cat",
+    "cs": "kočka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 110,
+    "en": "catch",
+    "cs": "chytit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 111,
+    "en": "cause",
+    "cs": "příčina",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 112,
+    "en": "frost",
+    "cs": "mráz",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 113,
+    "en": "mud",
+    "cs": "bláto",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 114,
+    "en": "certain",
+    "cs": "určitý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 115,
+    "en": "chair",
+    "cs": "židle",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 116,
+    "en": "chairman",
+    "cs": "předseda",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 117,
+    "en": "chance",
+    "cs": "šance",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 118,
+    "en": "change",
+    "cs": "přeměna",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 119,
+    "en": "chap",
+    "cs": "kap",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 120,
+    "en": "hill",
+    "cs": "kopec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 121,
+    "en": "charge",
+    "cs": "účtovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 122,
+    "en": "cheap",
+    "cs": "levný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 123,
+    "en": "check",
+    "cs": "kontrola",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 124,
+    "en": "child",
+    "cs": "dítě",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 125,
+    "en": "choice",
+    "cs": "výběr",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 126,
+    "en": "choose",
+    "cs": "vybrat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 127,
+    "en": "christ",
+    "cs": "Kristus",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 128,
+    "en": "christmas",
+    "cs": "Vánoce",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 129,
+    "en": "church",
+    "cs": "kostel",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 130,
+    "en": "city",
+    "cs": "město",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 131,
+    "en": "claim",
+    "cs": "tvrzení",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 132,
+    "en": "class",
+    "cs": "třída",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 133,
+    "en": "clean",
+    "cs": "čistý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 134,
+    "en": "clear",
+    "cs": "jasný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 135,
+    "en": "client",
+    "cs": "klienta",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 136,
+    "en": "clock",
+    "cs": "hodiny",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "en": "close",
+    "cs": "blízko",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 138,
+    "en": "closes",
+    "cs": "zavírá",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 139,
+    "en": "clothe",
+    "cs": "oblečení",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "en": "club",
+    "cs": "klub",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 141,
+    "en": "coffee",
+    "cs": "káva",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 142,
+    "en": "cold",
+    "cs": "studený",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 143,
+    "en": "colleague",
+    "cs": "kolega",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 144,
+    "en": "collect",
+    "cs": "sbírat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 145,
+    "en": "college",
+    "cs": "vysoká škola",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "en": "colour",
+    "cs": "barva",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 147,
+    "en": "come",
+    "cs": "přijít",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 148,
+    "en": "comment",
+    "cs": "komentář",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 149,
+    "en": "commit",
+    "cs": "spáchat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 150,
+    "en": "committee",
+    "cs": "výbor",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 151,
+    "en": "common",
+    "cs": "společný",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 152,
+    "en": "community",
+    "cs": "společenství",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "en": "company",
+    "cs": "společnost",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 154,
+    "en": "compare",
+    "cs": "porovnat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 155,
+    "en": "complete",
+    "cs": "kompletní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 156,
+    "en": "compute",
+    "cs": "vypočítat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "en": "concern",
+    "cs": "znepokojení",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 158,
+    "en": "condition",
+    "cs": "stav",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 159,
+    "en": "confer",
+    "cs": "udělit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 160,
+    "en": "consider",
+    "cs": "zvážit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 161,
+    "en": "consult",
+    "cs": "konzultovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 162,
+    "en": "contact",
+    "cs": "kontakt",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 163,
+    "en": "continue",
+    "cs": "pokračovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 164,
+    "en": "contract",
+    "cs": "smlouva",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 165,
+    "en": "control",
+    "cs": "řízení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 166,
+    "en": "converse",
+    "cs": "konverzovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 167,
+    "en": "cook",
+    "cs": "vařit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 168,
+    "en": "copy",
+    "cs": "kopie",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 169,
+    "en": "corner",
+    "cs": "roh",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 170,
+    "en": "correct",
+    "cs": "opravit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 171,
+    "en": "cost",
+    "cs": "náklady",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "en": "council",
+    "cs": "rada",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 173,
+    "en": "count",
+    "cs": "počítat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 174,
+    "en": "country",
+    "cs": "země",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 175,
+    "en": "county",
+    "cs": "hrabství",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 176,
+    "en": "couple",
+    "cs": "pár",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 177,
+    "en": "course",
+    "cs": "kurs",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "en": "court",
+    "cs": "soud",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 179,
+    "en": "cover",
+    "cs": "pokrýt",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 180,
+    "en": "create",
+    "cs": "vytvořit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 181,
+    "en": "cross",
+    "cs": "kříž",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 182,
+    "en": "cup",
+    "cs": "pohár",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 183,
+    "en": "current",
+    "cs": "proud",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 184,
+    "en": "cut",
+    "cs": "střih",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 185,
+    "en": "dad",
+    "cs": "táta",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 186,
+    "en": "danger",
+    "cs": "nebezpečí",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 187,
+    "en": "date",
+    "cs": "datum",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 188,
+    "en": "day",
+    "cs": "den",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 189,
+    "en": "dead",
+    "cs": "mrtvý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 190,
+    "en": "deal",
+    "cs": "jednat",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 191,
+    "en": "dear",
+    "cs": "milý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 192,
+    "en": "debate",
+    "cs": "rozprava",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 193,
+    "en": "decide",
+    "cs": "rozhodnout",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 194,
+    "en": "decision",
+    "cs": "rozhodnutí",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 195,
+    "en": "deep",
+    "cs": "hluboký",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 196,
+    "en": "definite",
+    "cs": "určitý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 197,
+    "en": "degree",
+    "cs": "stupeň",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 198,
+    "en": "department",
+    "cs": "oddělení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 199,
+    "en": "depend",
+    "cs": "záviset",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 200,
+    "en": "describe",
+    "cs": "popsat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 201,
+    "en": "mountain",
+    "cs": "hora",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 202,
+    "en": "river",
+    "cs": "řeka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 203,
+    "en": "develop",
+    "cs": "rozvíjet",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 204,
+    "en": "die",
+    "cs": "zemřít",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 205,
+    "en": "difference",
+    "cs": "rozdíl",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 206,
+    "en": "difficult",
+    "cs": "obtížný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 207,
+    "en": "dinner",
+    "cs": "večeře",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 208,
+    "en": "direct",
+    "cs": "řídit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 209,
+    "en": "discuss",
+    "cs": "diskutovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 210,
+    "en": "district",
+    "cs": "okres",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 211,
+    "en": "divide",
+    "cs": "rozdělit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 212,
+    "en": "doctor",
+    "cs": "lékař",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 213,
+    "en": "document",
+    "cs": "dokument",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 214,
+    "en": "dog",
+    "cs": "pes",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 215,
+    "en": "door",
+    "cs": "dveře",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 216,
+    "en": "double",
+    "cs": "dvojnásobek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 217,
+    "en": "doubt",
+    "cs": "pochybovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 218,
+    "en": "draw",
+    "cs": "remíza",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 219,
+    "en": "dress",
+    "cs": "šaty",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 220,
+    "en": "drink",
+    "cs": "pití",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 221,
+    "en": "drive",
+    "cs": "řídit",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 222,
+    "en": "drop",
+    "cs": "pokles",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 223,
+    "en": "dry",
+    "cs": "schnout",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 224,
+    "en": "due",
+    "cs": "splatná",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 225,
+    "en": "early",
+    "cs": "brzy",
+    "category": "adverb",
+    "difficulty": 3
+  },
+  {
+    "id": 226,
+    "en": "east",
+    "cs": "východní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 227,
+    "en": "easy",
+    "cs": "snadný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 228,
+    "en": "eat",
+    "cs": "jíst",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 229,
+    "en": "economy",
+    "cs": "ekonomika",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 230,
+    "en": "educate",
+    "cs": "vzdělávat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 231,
+    "en": "effect",
+    "cs": "účinek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 232,
+    "en": "egg",
+    "cs": "vejce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 233,
+    "en": "either",
+    "cs": "buď",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 234,
+    "en": "elect",
+    "cs": "zvolit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 235,
+    "en": "electric",
+    "cs": "elektrický",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 236,
+    "en": "eleven",
+    "cs": "jedenáct",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 237,
+    "en": "else",
+    "cs": "jiný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 238,
+    "en": "employ",
+    "cs": "zaměstnat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 239,
+    "en": "encourage",
+    "cs": "podporovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 240,
+    "en": "end",
+    "cs": "konec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 241,
+    "en": "engine",
+    "cs": "motor",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 242,
+    "en": "english",
+    "cs": "angličtina",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 243,
+    "en": "enjoy",
+    "cs": "užívat si",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 244,
+    "en": "enough",
+    "cs": "dost",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 245,
+    "en": "enter",
+    "cs": "vstoupit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 246,
+    "en": "environment",
+    "cs": "prostředí",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 247,
+    "en": "equal",
+    "cs": "rovný",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 248,
+    "en": "especial",
+    "cs": "zvláštní",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 249,
+    "en": "europe",
+    "cs": "Evropa",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 250,
+    "en": "evening",
+    "cs": "večer",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 251,
+    "en": "evidence",
+    "cs": "důkaz",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 252,
+    "en": "exact",
+    "cs": "přesný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 253,
+    "en": "example",
+    "cs": "příklad",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 254,
+    "en": "except",
+    "cs": "kromě",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 255,
+    "en": "excuse",
+    "cs": "omluva",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 256,
+    "en": "exercise",
+    "cs": "cvičení",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 257,
+    "en": "lake",
+    "cs": "jezero",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 258,
+    "en": "expect",
+    "cs": "očekávat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 259,
+    "en": "expense",
+    "cs": "výdaj",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 260,
+    "en": "experience",
+    "cs": "zažít",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 261,
+    "en": "explain",
+    "cs": "vysvětlit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 262,
+    "en": "express",
+    "cs": "vyjádřit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 263,
+    "en": "extra",
+    "cs": "další",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 264,
+    "en": "eye",
+    "cs": "oko",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 265,
+    "en": "face",
+    "cs": "tvář",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 266,
+    "en": "fact",
+    "cs": "skutečnost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 267,
+    "en": "fair",
+    "cs": "veletrh",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 268,
+    "en": "fall",
+    "cs": "podzim",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 269,
+    "en": "family",
+    "cs": "rodina",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  {
+    "id": 270,
+    "en": "far",
+    "cs": "daleko",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 271,
+    "en": "farm",
+    "cs": "hospodařit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 272,
+    "en": "fast",
+    "cs": "rychle",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 273,
+    "en": "father",
+    "cs": "otec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 274,
+    "en": "favour",
+    "cs": "laskavost",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 275,
+    "en": "feed",
+    "cs": "krmivo",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 276,
+    "en": "feel",
+    "cs": "cítit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 277,
+    "en": "few",
+    "cs": "pár",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 278,
+    "en": "field",
+    "cs": "pole",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 279,
+    "en": "fight",
+    "cs": "boj",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 280,
+    "en": "figure",
+    "cs": "postava",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 281,
+    "en": "file",
+    "cs": "soubor",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 282,
+    "en": "fill",
+    "cs": "vyplnit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 283,
+    "en": "pond",
+    "cs": "rybník",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 284,
+    "en": "beach",
+    "cs": "pláž",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 285,
+    "en": "island",
+    "cs": "ostrov",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 286,
+    "en": "find",
+    "cs": "nalézt",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 287,
+    "en": "fine",
+    "cs": "dobře",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 288,
+    "en": "finish",
+    "cs": "dokončit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 289,
+    "en": "fire",
+    "cs": "oheň",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 290,
+    "en": "fish",
+    "cs": "ryba",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 291,
+    "en": "desert",
+    "cs": "poušť",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 292,
+    "en": "flat",
+    "cs": "byt",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 293,
+    "en": "floor",
+    "cs": "patro",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 294,
+    "en": "fly",
+    "cs": "létat",
+    "category": "adverb",
+    "difficulty": 3
+  },
+  {
+    "id": 295,
+    "en": "follow",
+    "cs": "následovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 296,
+    "en": "food",
+    "cs": "jídlo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 297,
+    "en": "foot",
+    "cs": "noha",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 298,
+    "en": "force",
+    "cs": "platnost",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 299,
+    "en": "forget",
+    "cs": "zapomenout",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 300,
+    "en": "forest",
+    "cs": "les",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 301,
+    "en": "fortune",
+    "cs": "štěstí",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 302,
+    "en": "forward",
+    "cs": "vpřed",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 303,
+    "en": "free",
+    "cs": "uvolnit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 304,
+    "en": "friend",
+    "cs": "přítel",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 305,
+    "en": "front",
+    "cs": "přední",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 306,
+    "en": "full",
+    "cs": "plný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 307,
+    "en": "fun",
+    "cs": "zábava",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 308,
+    "en": "function",
+    "cs": "funkce",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 309,
+    "en": "fund",
+    "cs": "fond",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 310,
+    "en": "further",
+    "cs": "další",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 311,
+    "en": "future",
+    "cs": "budoucnost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 312,
+    "en": "game",
+    "cs": "hra",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 313,
+    "en": "garden",
+    "cs": "zahrada",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 314,
+    "en": "gas",
+    "cs": "plyn",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 315,
+    "en": "jungle",
+    "cs": "džungle",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 316,
+    "en": "germany",
+    "cs": "Německo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 317,
+    "en": "get",
+    "cs": "získat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 318,
+    "en": "girl",
+    "cs": "dívka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 319,
+    "en": "give",
+    "cs": "dát",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 320,
+    "en": "glass",
+    "cs": "sklo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 321,
+    "en": "god",
+    "cs": "Bůh",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 322,
+    "en": "good",
+    "cs": "dobrý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 323,
+    "en": "goodbye",
+    "cs": "Sbohem",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 324,
+    "en": "govern",
+    "cs": "řídit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 325,
+    "en": "grand",
+    "cs": "velký",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 326,
+    "en": "flower",
+    "cs": "květ",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 327,
+    "en": "great",
+    "cs": "velký",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 328,
+    "en": "green",
+    "cs": "zelený",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 329,
+    "en": "ground",
+    "cs": "země",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 330,
+    "en": "group",
+    "cs": "skupina",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 331,
+    "en": "grow",
+    "cs": "růst",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 332,
+    "en": "guess",
+    "cs": "hádat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 333,
+    "en": "guy",
+    "cs": "chlap",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 334,
+    "en": "hair",
+    "cs": "vlasy",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 335,
+    "en": "half",
+    "cs": "půl",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 336,
+    "en": "hall",
+    "cs": "sál",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 337,
+    "en": "hand",
+    "cs": "ruka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 338,
+    "en": "hang",
+    "cs": "pověsit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 339,
+    "en": "happen",
+    "cs": "stát",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 340,
+    "en": "happy",
+    "cs": "šťastný",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 341,
+    "en": "hard",
+    "cs": "tvrdý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 342,
+    "en": "hate",
+    "cs": "nenávist",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 343,
+    "en": "head",
+    "cs": "hlava",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 344,
+    "en": "health",
+    "cs": "zdraví",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 345,
+    "en": "hear",
+    "cs": "slyšet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 346,
+    "en": "heart",
+    "cs": "srdce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 347,
+    "en": "heat",
+    "cs": "teplo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 348,
+    "en": "heavy",
+    "cs": "těžký",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 349,
+    "en": "hell",
+    "cs": "peklo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 350,
+    "en": "help",
+    "cs": "pomoc",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 351,
+    "en": "high",
+    "cs": "vysoký",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 352,
+    "en": "history",
+    "cs": "dějiny",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 353,
+    "en": "grass",
+    "cs": "tráva",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 354,
+    "en": "hold",
+    "cs": "držet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 355,
+    "en": "holiday",
+    "cs": "dovolená",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 356,
+    "en": "home",
+    "cs": "domov",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 357,
+    "en": "honest",
+    "cs": "upřímný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 358,
+    "en": "hope",
+    "cs": "naděje",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 359,
+    "en": "horse",
+    "cs": "kůň",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 360,
+    "en": "hospital",
+    "cs": "NEMOCNICE",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 361,
+    "en": "hot",
+    "cs": "horký",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 362,
+    "en": "hour",
+    "cs": "hodina",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 363,
+    "en": "house",
+    "cs": "dům",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 364,
+    "en": "however",
+    "cs": "však",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 365,
+    "en": "hullo",
+    "cs": "Haló",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 366,
+    "en": "hundred",
+    "cs": "sto",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 367,
+    "en": "husband",
+    "cs": "manžel",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 368,
+    "en": "idea",
+    "cs": "nápad",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 369,
+    "en": "leaf",
+    "cs": "list",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 370,
+    "en": "imagine",
+    "cs": "představte si",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 371,
+    "en": "important",
+    "cs": "důležité",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 372,
+    "en": "improve",
+    "cs": "zlepšit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 373,
+    "en": "include",
+    "cs": "zahrnout",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 374,
+    "en": "income",
+    "cs": "příjem",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 375,
+    "en": "increase",
+    "cs": "zvýšení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 376,
+    "en": "indeed",
+    "cs": "opravdu",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 377,
+    "en": "seed",
+    "cs": "semínko",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 378,
+    "en": "industry",
+    "cs": "průmysl",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 379,
+    "en": "root",
+    "cs": "vykořenit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 380,
+    "en": "inside",
+    "cs": "uvnitř",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 381,
+    "en": "instead",
+    "cs": "místo toho",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 382,
+    "en": "insure",
+    "cs": "pojistit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 383,
+    "en": "interest",
+    "cs": "zajímat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 384,
+    "en": "introduce",
+    "cs": "představit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 385,
+    "en": "branch",
+    "cs": "větev",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 386,
+    "en": "involve",
+    "cs": "zapojit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 387,
+    "en": "issue",
+    "cs": "problém",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 388,
+    "en": "item",
+    "cs": "položka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 389,
+    "en": "jesus",
+    "cs": "Ježíš",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 390,
+    "en": "job",
+    "cs": "práce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 391,
+    "en": "join",
+    "cs": "připojit se",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 392,
+    "en": "judge",
+    "cs": "soudce",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 393,
+    "en": "jump",
+    "cs": "skok",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 394,
+    "en": "keep",
+    "cs": "zachovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 395,
+    "en": "key",
+    "cs": "klíč",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 396,
+    "en": "kid",
+    "cs": "dítě",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 397,
+    "en": "kind",
+    "cs": "druh",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 398,
+    "en": "king",
+    "cs": "král",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 399,
+    "en": "kitchen",
+    "cs": "kuchyně",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 400,
+    "en": "knock",
+    "cs": "klepání",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 401,
+    "en": "know",
+    "cs": "vědět",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 402,
+    "en": "labour",
+    "cs": "práce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 403,
+    "en": "lad",
+    "cs": "chlapec",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 404,
+    "en": "lady",
+    "cs": "dáma",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 405,
+    "en": "land",
+    "cs": "přistát",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 406,
+    "en": "language",
+    "cs": "jazyk",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 407,
+    "en": "large",
+    "cs": "velký",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 408,
+    "en": "last",
+    "cs": "poslední",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 409,
+    "en": "late",
+    "cs": "pozdě",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 410,
+    "en": "laugh",
+    "cs": "smích",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 411,
+    "en": "law",
+    "cs": "zákon",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 412,
+    "en": "lay",
+    "cs": "ležet",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 413,
+    "en": "lead",
+    "cs": "vést",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 414,
+    "en": "learn",
+    "cs": "učit se",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 415,
+    "en": "leave",
+    "cs": "dovolená",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 416,
+    "en": "left",
+    "cs": "vlevo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 417,
+    "en": "leg",
+    "cs": "noha",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 418,
+    "en": "let",
+    "cs": "nechat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 419,
+    "en": "letter",
+    "cs": "dopis",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 420,
+    "en": "level",
+    "cs": "úroveň",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 421,
+    "en": "lie",
+    "cs": "lež",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 422,
+    "en": "life",
+    "cs": "život",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 423,
+    "en": "light",
+    "cs": "světlo",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 424,
+    "en": "like",
+    "cs": "jako",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 425,
+    "en": "likely",
+    "cs": "pravděpodobně",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  {
+    "id": 426,
+    "en": "limit",
+    "cs": "omezit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 427,
+    "en": "line",
+    "cs": "čára",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 428,
+    "en": "link",
+    "cs": "odkaz",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 429,
+    "en": "list",
+    "cs": "seznam",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 430,
+    "en": "listen",
+    "cs": "poslouchat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 431,
+    "en": "little",
+    "cs": "málo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 432,
+    "en": "live",
+    "cs": "žít",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 433,
+    "en": "load",
+    "cs": "zatížení",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 434,
+    "en": "local",
+    "cs": "místní",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 435,
+    "en": "lock",
+    "cs": "zámek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 436,
+    "en": "long",
+    "cs": "dlouho",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 437,
+    "en": "look",
+    "cs": "Podívejte",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 438,
+    "en": "lord",
+    "cs": "pán",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 439,
+    "en": "lose",
+    "cs": "ztratit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 440,
+    "en": "lot",
+    "cs": "hodně",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 441,
+    "en": "love",
+    "cs": "láska",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 442,
+    "en": "low",
+    "cs": "nízký",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 443,
+    "en": "luck",
+    "cs": "štěstí",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 444,
+    "en": "lunch",
+    "cs": "oběd",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 445,
+    "en": "machine",
+    "cs": "stroj",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 446,
+    "en": "main",
+    "cs": "hlavní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 447,
+    "en": "major",
+    "cs": "hlavní",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 448,
+    "en": "make",
+    "cs": "udělat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 449,
+    "en": "man",
+    "cs": "muž",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 450,
+    "en": "manage",
+    "cs": "spravovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 451,
+    "en": "many",
+    "cs": "mnoho",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 452,
+    "en": "mark",
+    "cs": "označit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 453,
+    "en": "market",
+    "cs": "trh",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 454,
+    "en": "marry",
+    "cs": "oženit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 455,
+    "en": "match",
+    "cs": "zápas",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 456,
+    "en": "matter",
+    "cs": "hmota",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 457,
+    "en": "maybe",
+    "cs": "možná",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 458,
+    "en": "mean",
+    "cs": "střední",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 459,
+    "en": "meaning",
+    "cs": "význam",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 460,
+    "en": "measure",
+    "cs": "opatření",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 461,
+    "en": "meet",
+    "cs": "setkat se",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 462,
+    "en": "member",
+    "cs": "člen",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 463,
+    "en": "mention",
+    "cs": "zmínka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 464,
+    "en": "middle",
+    "cs": "střední",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 465,
+    "en": "bush",
+    "cs": "keř",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 466,
+    "en": "milk",
+    "cs": "mléko",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 467,
+    "en": "million",
+    "cs": "milión",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 468,
+    "en": "mind",
+    "cs": "mysl",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 469,
+    "en": "mushroom",
+    "cs": "houba",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 470,
+    "en": "moss",
+    "cs": "mech",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 471,
+    "en": "bird",
+    "cs": "pták",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 472,
+    "en": "frog",
+    "cs": "žába",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 473,
+    "en": "mister",
+    "cs": "pane",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 474,
+    "en": "moment",
+    "cs": "okamžik",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 475,
+    "en": "money",
+    "cs": "peníze",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 476,
+    "en": "month",
+    "cs": "měsíc",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 477,
+    "en": "morning",
+    "cs": "ráno",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 478,
+    "en": "mother",
+    "cs": "matka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 479,
+    "en": "motion",
+    "cs": "pohyb",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 480,
+    "en": "move",
+    "cs": "pohyb",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 481,
+    "en": "mrs",
+    "cs": "paní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 482,
+    "en": "much",
+    "cs": "mnoho",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 483,
+    "en": "music",
+    "cs": "hudba",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 484,
+    "en": "name",
+    "cs": "jméno",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 485,
+    "en": "nation",
+    "cs": "národ",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 486,
+    "en": "nature",
+    "cs": "příroda",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 487,
+    "en": "necessary",
+    "cs": "nutné",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 488,
+    "en": "need",
+    "cs": "potřeba",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 489,
+    "en": "new",
+    "cs": "nový",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 490,
+    "en": "news",
+    "cs": "zprávy",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 491,
+    "en": "next",
+    "cs": "další",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 492,
+    "en": "nice",
+    "cs": "pěkný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 493,
+    "en": "night",
+    "cs": "noc",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 494,
+    "en": "non",
+    "cs": "ne",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 495,
+    "en": "none",
+    "cs": "žádný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 496,
+    "en": "snake",
+    "cs": "had",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 497,
+    "en": "north",
+    "cs": "severní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 498,
+    "en": "note",
+    "cs": "poznámka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 499,
+    "en": "notice",
+    "cs": "oznámení",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 500,
+    "en": "number",
+    "cs": "číslo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 501,
+    "en": "obvious",
+    "cs": "zřejmé",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 502,
+    "en": "occasion",
+    "cs": "příležitost",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 503,
+    "en": "odd",
+    "cs": "zvláštní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 504,
+    "en": "offer",
+    "cs": "nabídka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 505,
+    "en": "office",
+    "cs": "kancelář",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 506,
+    "en": "often",
+    "cs": "často",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 507,
+    "en": "okay",
+    "cs": "Dobře",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 508,
+    "en": "old",
+    "cs": "starý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 509,
+    "en": "once",
+    "cs": "jednou",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 510,
+    "en": "open",
+    "cs": "OTEVŘENO",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 511,
+    "en": "operate",
+    "cs": "provozovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 512,
+    "en": "opportunity",
+    "cs": "příležitost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 513,
+    "en": "oppose",
+    "cs": "oponovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 514,
+    "en": "order",
+    "cs": "objednávka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 515,
+    "en": "wolf",
+    "cs": "vlk",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 516,
+    "en": "rabbit",
+    "cs": "králičí",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 517,
+    "en": "otherwise",
+    "cs": "jinak",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 518,
+    "en": "ought",
+    "cs": "měl by",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 519,
+    "en": "own",
+    "cs": "vlastní",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 520,
+    "en": "pack",
+    "cs": "balíček",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 521,
+    "en": "page",
+    "cs": "strana",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 522,
+    "en": "paint",
+    "cs": "malovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 523,
+    "en": "pair",
+    "cs": "pár",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 524,
+    "en": "paper",
+    "cs": "papír",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 525,
+    "en": "paragraph",
+    "cs": "odstavec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 526,
+    "en": "fox",
+    "cs": "liška",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 527,
+    "en": "parent",
+    "cs": "rodič",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 528,
+    "en": "deer",
+    "cs": "jelen",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 529,
+    "en": "part",
+    "cs": "část",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 530,
+    "en": "particular",
+    "cs": "konkrétní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 531,
+    "en": "party",
+    "cs": "strana",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 532,
+    "en": "pass",
+    "cs": "přihrávka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 533,
+    "en": "past",
+    "cs": "minulost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 534,
+    "en": "pay",
+    "cs": "platit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 535,
+    "en": "eagle",
+    "cs": "orel",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 536,
+    "en": "pension",
+    "cs": "důchod",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 537,
+    "en": "people",
+    "cs": "lidé",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 538,
+    "en": "per",
+    "cs": "za",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 539,
+    "en": "percent",
+    "cs": "procent",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 540,
+    "en": "sheep",
+    "cs": "ovce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 541,
+    "en": "perhaps",
+    "cs": "možná",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 542,
+    "en": "period",
+    "cs": "období",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 543,
+    "en": "person",
+    "cs": "osoba",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 544,
+    "en": "photograph",
+    "cs": "fotografie",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 545,
+    "en": "pick",
+    "cs": "výběr",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 546,
+    "en": "picture",
+    "cs": "obrázek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 547,
+    "en": "piece",
+    "cs": "kus",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 548,
+    "en": "place",
+    "cs": "místo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 549,
+    "en": "cow",
+    "cs": "kráva",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 550,
+    "en": "play",
+    "cs": "hrát",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 551,
+    "en": "please",
+    "cs": "Prosím",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 552,
+    "en": "pig",
+    "cs": "prase",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 553,
+    "en": "point",
+    "cs": "bod",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 554,
+    "en": "hen",
+    "cs": "slepice",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 555,
+    "en": "duck",
+    "cs": "kachna",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 556,
+    "en": "politic",
+    "cs": "rozvážný",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 557,
+    "en": "poor",
+    "cs": "chudý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 558,
+    "en": "position",
+    "cs": "pozice",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 559,
+    "en": "positive",
+    "cs": "pozitivní",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 560,
+    "en": "possible",
+    "cs": "možné",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 561,
+    "en": "post",
+    "cs": "zveřejnit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 562,
+    "en": "pound",
+    "cs": "libra",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 563,
+    "en": "power",
+    "cs": "moc",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 564,
+    "en": "practise",
+    "cs": "praxe",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 565,
+    "en": "prepare",
+    "cs": "připravit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 566,
+    "en": "present",
+    "cs": "současnost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 567,
+    "en": "press",
+    "cs": "stiskněte",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 568,
+    "en": "pressure",
+    "cs": "tlak",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 569,
+    "en": "presume",
+    "cs": "předpokládat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 570,
+    "en": "pretty",
+    "cs": "pěkný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 571,
+    "en": "previous",
+    "cs": "předchozí",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 572,
+    "en": "price",
+    "cs": "cena",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 573,
+    "en": "print",
+    "cs": "vytisknout",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 574,
+    "en": "private",
+    "cs": "soukromé",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 575,
+    "en": "probable",
+    "cs": "pravděpodobný",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 576,
+    "en": "goose",
+    "cs": "husa",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 577,
+    "en": "proceed",
+    "cs": "pokračovat",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 578,
+    "en": "bee",
+    "cs": "včela",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 579,
+    "en": "moon",
+    "cs": "měsíc",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 580,
+    "en": "star",
+    "cs": "hvězda",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 581,
+    "en": "programme",
+    "cs": "naprogramovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 582,
+    "en": "sky",
+    "cs": "nebe",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 583,
+    "en": "proper",
+    "cs": "správné",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 584,
+    "en": "propose",
+    "cs": "navrhnout",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 585,
+    "en": "protect",
+    "cs": "chránit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 586,
+    "en": "provide",
+    "cs": "poskytnout",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 587,
+    "en": "public",
+    "cs": "veřejnost",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 588,
+    "en": "pull",
+    "cs": "SEM",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 589,
+    "en": "purpose",
+    "cs": "účel",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 590,
+    "en": "push",
+    "cs": "TAM",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 591,
+    "en": "put",
+    "cs": "dát",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 592,
+    "en": "quality",
+    "cs": "kvalitní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 593,
+    "en": "quarter",
+    "cs": "čtvrtletí",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 594,
+    "en": "question",
+    "cs": "otázka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 595,
+    "en": "quick",
+    "cs": "rychlý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 596,
+    "en": "quid",
+    "cs": "libra",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 597,
+    "en": "quiet",
+    "cs": "klid",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 598,
+    "en": "rainbow",
+    "cs": "duha",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 599,
+    "en": "rail",
+    "cs": "železniční",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 600,
+    "en": "raise",
+    "cs": "zvýšit",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 601,
+    "en": "range",
+    "cs": "rozsah",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 602,
+    "en": "rate",
+    "cs": "hodnotit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 603,
+    "en": "read",
+    "cs": "číst",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 604,
+    "en": "ready",
+    "cs": "připraven",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 605,
+    "en": "real",
+    "cs": "nemovitý",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 606,
+    "en": "shadow",
+    "cs": "stín",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 607,
+    "en": "really",
+    "cs": "opravdu",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  {
+    "id": 608,
+    "en": "reason",
+    "cs": "důvod",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 609,
+    "en": "receive",
+    "cs": "dostávat",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 610,
+    "en": "recent",
+    "cs": "nedávné",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 611,
+    "en": "reckon",
+    "cs": "počítat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 612,
+    "en": "recognize",
+    "cs": "uznat",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 613,
+    "en": "recommend",
+    "cs": "doporučit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 614,
+    "en": "record",
+    "cs": "záznam",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 615,
+    "en": "red",
+    "cs": "červený",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 616,
+    "en": "reduce",
+    "cs": "snížit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 617,
+    "en": "refer",
+    "cs": "odkazovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 618,
+    "en": "regard",
+    "cs": "považovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 619,
+    "en": "region",
+    "cs": "kraj",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 620,
+    "en": "relation",
+    "cs": "vztah",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 621,
+    "en": "remember",
+    "cs": "pamatovat si",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 622,
+    "en": "report",
+    "cs": "zpráva",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 623,
+    "en": "represent",
+    "cs": "zastupovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 624,
+    "en": "require",
+    "cs": "vyžadovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 625,
+    "en": "research",
+    "cs": "výzkum",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 626,
+    "en": "resource",
+    "cs": "zdroj",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 627,
+    "en": "flame",
+    "cs": "plamen",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 628,
+    "en": "responsible",
+    "cs": "odpovědný",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 629,
+    "en": "rest",
+    "cs": "odpočinek",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 630,
+    "en": "result",
+    "cs": "výsledek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 631,
+    "en": "return",
+    "cs": "návrat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 632,
+    "en": "rid",
+    "cs": "zbavit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 633,
+    "en": "right",
+    "cs": "právo",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 634,
+    "en": "ring",
+    "cs": "kroužek",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 635,
+    "en": "rise",
+    "cs": "vzestup",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 636,
+    "en": "road",
+    "cs": "silnice",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 637,
+    "en": "dust",
+    "cs": "prach",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 638,
+    "en": "roll",
+    "cs": "role",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 639,
+    "en": "room",
+    "cs": "pokoj",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 640,
+    "en": "round",
+    "cs": "kolo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 641,
+    "en": "rule",
+    "cs": "pravidlo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 642,
+    "en": "run",
+    "cs": "běh",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 643,
+    "en": "safe",
+    "cs": "trezor",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 644,
+    "en": "sale",
+    "cs": "prodej",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 645,
+    "en": "same",
+    "cs": "stejný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 646,
+    "en": "save",
+    "cs": "uložit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 647,
+    "en": "say",
+    "cs": "říci",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 648,
+    "en": "scheme",
+    "cs": "systém",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 649,
+    "en": "school",
+    "cs": "škola",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 650,
+    "en": "science",
+    "cs": "věda",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 651,
+    "en": "score",
+    "cs": "skóre",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 652,
+    "en": "scotland",
+    "cs": "Skotsko",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 653,
+    "en": "seat",
+    "cs": "sedadlo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 654,
+    "en": "secretary",
+    "cs": "tajemník",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 655,
+    "en": "section",
+    "cs": "sekce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 656,
+    "en": "secure",
+    "cs": "zajistit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 657,
+    "en": "see",
+    "cs": "vidět",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 658,
+    "en": "seem",
+    "cs": "zdát",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 659,
+    "en": "self",
+    "cs": "já",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 660,
+    "en": "sell",
+    "cs": "prodat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 661,
+    "en": "send",
+    "cs": "poslat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 662,
+    "en": "sense",
+    "cs": "smysl",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 663,
+    "en": "separate",
+    "cs": "samostatný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 664,
+    "en": "serious",
+    "cs": "vážné",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 665,
+    "en": "serve",
+    "cs": "sloužit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 666,
+    "en": "pebble",
+    "cs": "oblázek",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 667,
+    "en": "set",
+    "cs": "soubor",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 668,
+    "en": "settle",
+    "cs": "usadit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 669,
+    "en": "share",
+    "cs": "podíl",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 670,
+    "en": "sheet",
+    "cs": "list",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 671,
+    "en": "shoe",
+    "cs": "bota",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 672,
+    "en": "shoot",
+    "cs": "střílet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 673,
+    "en": "shop",
+    "cs": "nakupovat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 674,
+    "en": "short",
+    "cs": "krátký",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 675,
+    "en": "ceiling",
+    "cs": "strop",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 676,
+    "en": "shut",
+    "cs": "zavřít",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 677,
+    "en": "sick",
+    "cs": "nemocný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 678,
+    "en": "side",
+    "cs": "strana",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 679,
+    "en": "sign",
+    "cs": "znamení",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 680,
+    "en": "similar",
+    "cs": "podobný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 681,
+    "en": "simple",
+    "cs": "jednoduchý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 682,
+    "en": "since",
+    "cs": "od",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 683,
+    "en": "sing",
+    "cs": "zpívat",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 684,
+    "en": "roof",
+    "cs": "střecha",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 685,
+    "en": "sir",
+    "cs": "Pane",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 686,
+    "en": "sister",
+    "cs": "sestra",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 687,
+    "en": "sit",
+    "cs": "sedět",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 688,
+    "en": "site",
+    "cs": "místo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 689,
+    "en": "bread",
+    "cs": "chléb",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 690,
+    "en": "size",
+    "cs": "velikost",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 691,
+    "en": "sleep",
+    "cs": "spát",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 692,
+    "en": "slight",
+    "cs": "nepatrný",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 693,
+    "en": "slow",
+    "cs": "pomalý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 694,
+    "en": "small",
+    "cs": "malý",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 695,
+    "en": "smoke",
+    "cs": "kouř",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 696,
+    "en": "butter",
+    "cs": "máslo",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 697,
+    "en": "society",
+    "cs": "společnost",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 698,
+    "en": "son",
+    "cs": "syn",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 699,
+    "en": "soon",
+    "cs": "brzy",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 700,
+    "en": "sorry",
+    "cs": "promiň",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 701,
+    "en": "sort",
+    "cs": "seřadit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 702,
+    "en": "sound",
+    "cs": "zvuk",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 703,
+    "en": "south",
+    "cs": "jižní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 704,
+    "en": "space",
+    "cs": "plocha",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 705,
+    "en": "speak",
+    "cs": "mluvit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 706,
+    "en": "cheese",
+    "cs": "sýr",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 707,
+    "en": "specific",
+    "cs": "konkrétní",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 708,
+    "en": "speed",
+    "cs": "rychlost",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 709,
+    "en": "spell",
+    "cs": "kouzlo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 710,
+    "en": "spend",
+    "cs": "strávit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 711,
+    "en": "square",
+    "cs": "náměstí",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 712,
+    "en": "staff",
+    "cs": "personál",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 713,
+    "en": "stage",
+    "cs": "fáze",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 714,
+    "en": "stairs",
+    "cs": "schody",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 715,
+    "en": "meat",
+    "cs": "maso",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 716,
+    "en": "standard",
+    "cs": "norma",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 717,
+    "en": "soup",
+    "cs": "polévka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 718,
+    "en": "rice",
+    "cs": "rýže",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 719,
+    "en": "station",
+    "cs": "stanice",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 720,
+    "en": "stay",
+    "cs": "pobyt",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 721,
+    "en": "step",
+    "cs": "krok",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 722,
+    "en": "stick",
+    "cs": "držet",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 723,
+    "en": "stop",
+    "cs": "zastávka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 724,
+    "en": "story",
+    "cs": "příběh",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 725,
+    "en": "straight",
+    "cs": "rovně",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 726,
+    "en": "sugar",
+    "cs": "cukr",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 727,
+    "en": "street",
+    "cs": "ulice",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 728,
+    "en": "strike",
+    "cs": "stávka",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 729,
+    "en": "strong",
+    "cs": "silný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 730,
+    "en": "salt",
+    "cs": "sůl",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 731,
+    "en": "bowl",
+    "cs": "miska",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 732,
+    "en": "plate",
+    "cs": "talíř",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 733,
+    "en": "stuff",
+    "cs": "nacpat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 734,
+    "en": "stupid",
+    "cs": "hloupý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 735,
+    "en": "subject",
+    "cs": "podrobit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 736,
+    "en": "succeed",
+    "cs": "uspět",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 737,
+    "en": "such",
+    "cs": "takový",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 738,
+    "en": "sudden",
+    "cs": "náhlý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 739,
+    "en": "suggest",
+    "cs": "navrhnout",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 740,
+    "en": "suit",
+    "cs": "oblek",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 741,
+    "en": "summer",
+    "cs": "letní",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 742,
+    "en": "sun",
+    "cs": "slunce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 743,
+    "en": "supply",
+    "cs": "zásobování",
+    "category": "adverb",
+    "difficulty": 2
+  },
+  {
+    "id": 744,
+    "en": "support",
+    "cs": "podpora",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 745,
+    "en": "suppose",
+    "cs": "předpokládat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 746,
+    "en": "sure",
+    "cs": "jistě",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 747,
+    "en": "surprise",
+    "cs": "překvapení",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 748,
+    "en": "switch",
+    "cs": "přepínač",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 749,
+    "en": "knife",
+    "cs": "nůž",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 750,
+    "en": "table",
+    "cs": "tabulka",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 751,
+    "en": "take",
+    "cs": "vzít",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 752,
+    "en": "talk",
+    "cs": "mluvit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 753,
+    "en": "tape",
+    "cs": "páska",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 754,
+    "en": "tax",
+    "cs": "daň",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 755,
+    "en": "tea",
+    "cs": "čaj",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 756,
+    "en": "teach",
+    "cs": "učit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 757,
+    "en": "team",
+    "cs": "tým",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 758,
+    "en": "fork",
+    "cs": "vidlice",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 759,
+    "en": "spoon",
+    "cs": "lžíce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 760,
+    "en": "tell",
+    "cs": "sdělit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 761,
+    "en": "tend",
+    "cs": "inklinovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 762,
+    "en": "term",
+    "cs": "období",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 763,
+    "en": "terrible",
+    "cs": "hrozný",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 764,
+    "en": "shirt",
+    "cs": "košile",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 765,
+    "en": "thank",
+    "cs": "poděkovat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 766,
+    "en": "therefore",
+    "cs": "proto",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 767,
+    "en": "thing",
+    "cs": "věc",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 768,
+    "en": "think",
+    "cs": "myslet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 769,
+    "en": "thirteen",
+    "cs": "třináct",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 770,
+    "en": "thirty",
+    "cs": "třicet",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 771,
+    "en": "thou",
+    "cs": "ty",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 772,
+    "en": "though",
+    "cs": "ačkoli",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 773,
+    "en": "thousand",
+    "cs": "tisíc",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 774,
+    "en": "throw",
+    "cs": "hod",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 775,
+    "en": "tie",
+    "cs": "uvázat",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 776,
+    "en": "time",
+    "cs": "čas",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 777,
+    "en": "together",
+    "cs": "spolu",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 778,
+    "en": "tonight",
+    "cs": "dnes večer",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 779,
+    "en": "top",
+    "cs": "nahoře",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 780,
+    "en": "total",
+    "cs": "celkový",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 781,
+    "en": "touch",
+    "cs": "dotek",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 782,
+    "en": "toward",
+    "cs": "k",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 783,
+    "en": "town",
+    "cs": "město",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 784,
+    "en": "trade",
+    "cs": "obchod",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 785,
+    "en": "traffic",
+    "cs": "provoz",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 786,
+    "en": "train",
+    "cs": "vlak",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 787,
+    "en": "transport",
+    "cs": "doprava",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 788,
+    "en": "travel",
+    "cs": "cestovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 789,
+    "en": "treat",
+    "cs": "zacházet",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 790,
+    "en": "tree",
+    "cs": "strom",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 791,
+    "en": "trouble",
+    "cs": "problémy",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 792,
+    "en": "true",
+    "cs": "věrný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 793,
+    "en": "trust",
+    "cs": "důvěra",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 794,
+    "en": "try",
+    "cs": "pokus",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 795,
+    "en": "turn",
+    "cs": "zatočit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 796,
+    "en": "twelve",
+    "cs": "dvanáct",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 797,
+    "en": "twenty",
+    "cs": "dvacet",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 798,
+    "en": "hat",
+    "cs": "čepice",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 799,
+    "en": "understand",
+    "cs": "pochopit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 800,
+    "en": "union",
+    "cs": "unie",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 801,
+    "en": "unit",
+    "cs": "jednotka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 802,
+    "en": "unite",
+    "cs": "sjednotit",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 803,
+    "en": "coat",
+    "cs": "kabát",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 804,
+    "en": "unless",
+    "cs": "ledaže",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 805,
+    "en": "until",
+    "cs": "až",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 806,
+    "en": "upon",
+    "cs": "na",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 807,
+    "en": "use",
+    "cs": "použití",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 808,
+    "en": "usual",
+    "cs": "obvyklý",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 809,
+    "en": "value",
+    "cs": "hodnota",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 810,
+    "en": "various",
+    "cs": "různé",
+    "category": "adjective",
+    "difficulty": 3
+  },
+  {
+    "id": 811,
+    "en": "sock",
+    "cs": "ponožka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 812,
+    "en": "view",
+    "cs": "pohled",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 813,
+    "en": "village",
+    "cs": "obec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 814,
+    "en": "visit",
+    "cs": "návštěva",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 815,
+    "en": "vote",
+    "cs": "hlasování",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 816,
+    "en": "wage",
+    "cs": "mzda",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 817,
+    "en": "wait",
+    "cs": "Počkejte",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 818,
+    "en": "walk",
+    "cs": "chůze",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 819,
+    "en": "wall",
+    "cs": "zeď",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 820,
+    "en": "want",
+    "cs": "chtít",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 821,
+    "en": "war",
+    "cs": "válka",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 822,
+    "en": "warm",
+    "cs": "teplý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 823,
+    "en": "wash",
+    "cs": "umýt",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 824,
+    "en": "waste",
+    "cs": "odpad",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 825,
+    "en": "watch",
+    "cs": "hodinky",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 826,
+    "en": "water",
+    "cs": "voda",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 827,
+    "en": "way",
+    "cs": "cesta",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 828,
+    "en": "wear",
+    "cs": "nosit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 829,
+    "en": "wee",
+    "cs": "maličko",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 830,
+    "en": "week",
+    "cs": "týden",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 831,
+    "en": "weigh",
+    "cs": "vážit",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 832,
+    "en": "welcome",
+    "cs": "Vítejte",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 833,
+    "en": "well",
+    "cs": "dobře",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 834,
+    "en": "west",
+    "cs": "Západ",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 835,
+    "en": "whether",
+    "cs": "zda",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 836,
+    "en": "white",
+    "cs": "bílý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 837,
+    "en": "whole",
+    "cs": "celý",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 838,
+    "en": "wide",
+    "cs": "široký",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 839,
+    "en": "wife",
+    "cs": "manželka",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 840,
+    "en": "win",
+    "cs": "vyhrát",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 841,
+    "en": "wind",
+    "cs": "vítr",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 842,
+    "en": "window",
+    "cs": "okno",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 843,
+    "en": "wish",
+    "cs": "přání",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 844,
+    "en": "within",
+    "cs": "v",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 845,
+    "en": "woman",
+    "cs": "žena",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 846,
+    "en": "wonder",
+    "cs": "zázrak",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 847,
+    "en": "wood",
+    "cs": "dřevo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 848,
+    "en": "word",
+    "cs": "slovo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 849,
+    "en": "work",
+    "cs": "práce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 850,
+    "en": "world",
+    "cs": "svět",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 851,
+    "en": "worry",
+    "cs": "starosti",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 852,
+    "en": "worse",
+    "cs": "horší",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 853,
+    "en": "worth",
+    "cs": "hodnotu",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 854,
+    "en": "write",
+    "cs": "napsat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 855,
+    "en": "wrong",
+    "cs": "špatně",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 856,
+    "en": "year",
+    "cs": "rok",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 857,
+    "en": "young",
+    "cs": "mladý",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 858,
+    "en": "search",
+    "cs": "vyhledávání",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 859,
+    "en": "glove",
+    "cs": "rukavice",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 860,
+    "en": "scarf",
+    "cs": "šátek",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 861,
+    "en": "belt",
+    "cs": "pás",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 862,
+    "en": "services",
+    "cs": "služby",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 863,
+    "en": "click",
+    "cs": "klikněte",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 864,
+    "en": "lamp",
+    "cs": "svítilna",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 865,
+    "en": "used",
+    "cs": "použitý",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 866,
+    "en": "mirror",
+    "cs": "zrcadlo",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 867,
+    "en": "brush",
+    "cs": "štětec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 868,
+    "en": "towel",
+    "cs": "ručník",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 869,
+    "en": "message",
+    "cs": "zpráva",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 870,
+    "en": "soap",
+    "cs": "mýdlo",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 871,
+    "en": "pillow",
+    "cs": "polštář",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 872,
+    "en": "rights",
+    "cs": "práv",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 873,
+    "en": "books",
+    "cs": "knihy",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 874,
+    "en": "links",
+    "cs": "odkazy",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 875,
+    "en": "review",
+    "cs": "recenze",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 876,
+    "en": "years",
+    "cs": "let",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 877,
+    "en": "privacy",
+    "cs": "soukromí",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 878,
+    "en": "items",
+    "cs": "položky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 879,
+    "en": "user",
+    "cs": "uživatel",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 880,
+    "en": "said",
+    "cs": "řekl",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 881,
+    "en": "mail",
+    "cs": "pošta",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 882,
+    "en": "blanket",
+    "cs": "deka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 883,
+    "en": "reviews",
+    "cs": "recenze",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 884,
+    "en": "program",
+    "cs": "naprogramovat",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 885,
+    "en": "games",
+    "cs": "hry",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 886,
+    "en": "days",
+    "cs": "dní",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 887,
+    "en": "management",
+    "cs": "řízení",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 888,
+    "en": "united",
+    "cs": "sjednocený",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 889,
+    "en": "candle",
+    "cs": "svíčka",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 890,
+    "en": "pen",
+    "cs": "pero",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 891,
+    "en": "store",
+    "cs": "obchod",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 892,
+    "en": "comments",
+    "cs": "komentáře",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 893,
+    "en": "made",
+    "cs": "vyrobeno",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 894,
+    "en": "development",
+    "cs": "rozvoj",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 895,
+    "en": "details",
+    "cs": "podrobnosti",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 896,
+    "en": "terms",
+    "cs": "podmínky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 897,
+    "en": "pencil",
+    "cs": "tužka",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 898,
+    "en": "using",
+    "cs": "pomocí",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 899,
+    "en": "results",
+    "cs": "výsledky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 900,
+    "en": "education",
+    "cs": "školství",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 901,
+    "en": "national",
+    "cs": "národní",
+    "category": "adjective",
+    "difficulty": 1
+  },
+  {
+    "id": 902,
+    "en": "posted",
+    "cs": "zveřejněno",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 903,
+    "en": "stamp",
+    "cs": "razítko",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 904,
+    "en": "drawer",
+    "cs": "výstavce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 905,
+    "en": "phone",
+    "cs": "telefon",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 906,
+    "en": "shipping",
+    "cs": "expedice",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 907,
+    "en": "reserved",
+    "cs": "Rezervováno",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 908,
+    "en": "shelf",
+    "cs": "police",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 909,
+    "en": "based",
+    "cs": "založené",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 910,
+    "en": "code",
+    "cs": "kód",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 911,
+    "en": "prices",
+    "cs": "ceny",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 912,
+    "en": "website",
+    "cs": "webové stránky",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 913,
+    "en": "carpet",
+    "cs": "koberec",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 914,
+    "en": "women",
+    "cs": "ženy",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 915,
+    "en": "curtain",
+    "cs": "závěs",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 916,
+    "en": "pages",
+    "cs": "stránky",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 917,
+    "en": "version",
+    "cs": "verze",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 918,
+    "en": "found",
+    "cs": "nalezeno",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 919,
+    "en": "ear",
+    "cs": "ucho",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 920,
+    "en": "related",
+    "cs": "související",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 921,
+    "en": "security",
+    "cs": "zabezpečení",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 922,
+    "en": "forehead",
+    "cs": "čelo",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 923,
+    "en": "photo",
+    "cs": "fotografie",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 924,
+    "en": "members",
+    "cs": "členů",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 925,
+    "en": "network",
+    "cs": "síť",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 926,
+    "en": "computer",
+    "cs": "počítač",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 927,
+    "en": "mouth",
+    "cs": "ústa",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 928,
+    "en": "following",
+    "cs": "následující",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 929,
+    "en": "download",
+    "cs": "stáhnout",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 930,
+    "en": "access",
+    "cs": "přístup",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 931,
+    "en": "resources",
+    "cs": "zdroje",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 932,
+    "en": "posts",
+    "cs": "příspěvky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 933,
+    "en": "tooth",
+    "cs": "zub",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 934,
+    "en": "pictures",
+    "cs": "obrázky",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 935,
+    "en": "personal",
+    "cs": "osobní",
+    "category": "adjective",
+    "difficulty": 2
+  },
+  {
+    "id": 936,
+    "en": "including",
+    "cs": "včetně",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 937,
+    "en": "guide",
+    "cs": "průvodce",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 938,
+    "en": "directory",
+    "cs": "adresář",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 939,
+    "en": "location",
+    "cs": "umístění",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 940,
+    "en": "tongue",
+    "cs": "jazyk",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 941,
+    "en": "rating",
+    "cs": "hodnocení",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 942,
+    "en": "government",
+    "cs": "vláda",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 943,
+    "en": "children",
+    "cs": "děti",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 944,
+    "en": "knee",
+    "cs": "koleno",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 945,
+    "en": "shopping",
+    "cs": "nakupování",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 946,
+    "en": "times",
+    "cs": "časy",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 947,
+    "en": "sites",
+    "cs": "stránky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 948,
+    "en": "lung",
+    "cs": "plíce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 949,
+    "en": "stomach",
+    "cs": "žaludek",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 950,
+    "en": "events",
+    "cs": "události",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 951,
+    "en": "john",
+    "cs": "Jan",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 952,
+    "en": "hours",
+    "cs": "hodin",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 953,
+    "en": "image",
+    "cs": "obraz",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 954,
+    "en": "title",
+    "cs": "titul",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 955,
+    "en": "description",
+    "cs": "popis",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 956,
+    "en": "insurance",
+    "cs": "pojištění",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 957,
+    "en": "property",
+    "cs": "vlastnictví",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 958,
+    "en": "listing",
+    "cs": "výpis",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 959,
+    "en": "content",
+    "cs": "obsah",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 960,
+    "en": "tools",
+    "cs": "nástroje",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 961,
+    "en": "reply",
+    "cs": "odpověď",
+    "category": "adverb",
+    "difficulty": 1
+  },
+  {
+    "id": 962,
+    "en": "customer",
+    "cs": "zákazník",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 963,
+    "en": "movies",
+    "cs": "filmy",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 964,
+    "en": "article",
+    "cs": "článek",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 965,
+    "en": "finger",
+    "cs": "prst",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 966,
+    "en": "jobs",
+    "cs": "pracovních míst",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 967,
+    "en": "source",
+    "cs": "zdroj",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 968,
+    "en": "author",
+    "cs": "autor",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 969,
+    "en": "different",
+    "cs": "jiný",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 970,
+    "en": "canada",
+    "cs": "Kanada",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 971,
+    "en": "teen",
+    "cs": "dospívající",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 972,
+    "en": "stock",
+    "cs": "sklad",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 973,
+    "en": "training",
+    "cs": "výcvik",
+    "category": "verb",
+    "difficulty": 1
+  },
+  {
+    "id": 974,
+    "en": "credit",
+    "cs": "kredit",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 975,
+    "en": "men",
+    "cs": "muži",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 976,
+    "en": "categories",
+    "cs": "kategorie",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 977,
+    "en": "advanced",
+    "cs": "moderní",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 978,
+    "en": "sales",
+    "cs": "prodeje",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 979,
+    "en": "estate",
+    "cs": "majetek",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 980,
+    "en": "conditions",
+    "cs": "podmínky",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 981,
+    "en": "select",
+    "cs": "vybrat",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 982,
+    "en": "windows",
+    "cs": "okna",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 983,
+    "en": "photos",
+    "cs": "fotografie",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 984,
+    "en": "thumb",
+    "cs": "palec",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 985,
+    "en": "thread",
+    "cs": "vlákno",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 986,
+    "en": "category",
+    "cs": "kategorie",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 987,
+    "en": "gallery",
+    "cs": "galerie",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 988,
+    "en": "register",
+    "cs": "rejstřík",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 989,
+    "en": "library",
+    "cs": "knihovna",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 990,
+    "en": "action",
+    "cs": "akce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 991,
+    "en": "shoulder",
+    "cs": "rameno",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 992,
+    "en": "neck",
+    "cs": "krk",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 993,
+    "en": "features",
+    "cs": "funkce",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 994,
+    "en": "human",
+    "cs": "člověk",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 995,
+    "en": "provided",
+    "cs": "pokud",
+    "category": "verb",
+    "difficulty": 2
+  },
+  {
+    "id": 996,
+    "en": "required",
+    "cs": "požadovaný",
+    "category": "verb",
+    "difficulty": 3
+  },
+  {
+    "id": 997,
+    "en": "accessories",
+    "cs": "příslušenství",
+    "category": "noun",
+    "difficulty": 1
+  },
+  {
+    "id": 998,
+    "en": "movie",
+    "cs": "film",
+    "category": "noun",
+    "difficulty": 2
+  },
+  {
+    "id": 999,
+    "en": "forums",
+    "cs": "fórech",
+    "category": "noun",
+    "difficulty": 3
+  },
+  {
+    "id": 1000,
+    "en": "better",
+    "cs": "lepší",
+    "category": "noun",
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,23 @@
+.badge {
+  width: min(280px, 100%);
+  margin: 1rem auto;
+  padding: 1.2rem 1rem;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  background: linear-gradient(135deg, #7c3aed, #ec4899);
+  box-shadow: 0 16px 28px rgba(124, 58, 237, 0.35);
+}
+
+.score {
+  margin: 0;
+  font-size: clamp(1.8rem, 6vw, 2.4rem);
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+}
+
+.percentage {
+  margin: 0.35rem 0 0;
+  font-weight: 800;
+  font-size: 1.2rem;
+}

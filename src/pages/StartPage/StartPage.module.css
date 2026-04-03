@@ -1,0 +1,93 @@
+.page {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.card {
+  width: min(600px, 100%);
+  background: white;
+  border-radius: 28px;
+  padding: clamp(1.2rem, 4vw, 2.2rem);
+  box-shadow: 0 24px 40px rgba(15, 23, 42, 0.15);
+  animation: rise 0.35s ease;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+  font-size: clamp(2rem, 7vw, 3rem);
+  color: var(--color-primary-dark);
+}
+
+.lead {
+  margin-top: 0;
+  color: var(--color-muted);
+  font-size: 1.05rem;
+}
+
+.best {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 14px;
+  background: rgba(250, 204, 21, 0.2);
+  font-weight: 800;
+}
+
+.startButton {
+  margin: 0.65rem 0 1.1rem;
+  width: 100%;
+}
+
+.history h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.tableWrap {
+  overflow-x: auto;
+  border-radius: 14px;
+  border: 2px solid rgba(124, 58, 237, 0.16);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+}
+
+.table thead {
+  background: rgba(124, 58, 237, 0.1);
+}
+
+.table th,
+.table td {
+  text-align: left;
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid rgba(124, 58, 237, 0.14);
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table tbody tr:nth-child(1) td {
+  font-weight: 800;
+}
+
+.clearButton {
+  margin-top: 0.7rem;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
